@@ -1,0 +1,3 @@
+[submodule "CodeFromTheReasonedSchemer2ndEd"]
+	path = CodeFromTheReasonedSchemer2ndEd
+	url = git@github.com:TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd.git
